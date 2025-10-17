@@ -15,7 +15,7 @@
 
 <br>
 
- **Este repositorio reúne una colección avanzada de dorks ofensivos diseñados para detectar si una empresa tiene un programa de bug bounty o una política de responsible disclosure, incluso si no está registrada en plataformas conocidas como HackerOne o Bugcrowd. Permite a cualquier cazador encontrar oportunidades ocultas de recompensa y explorar superficies que otros pasan por alto,,<a href="https://youtu.be/uhrehZScmsw" target="_blank" rel="noopener">demo Youtube</a>** 
+ **Este repositorio reúne una colección avanzada de dorks ofensivos diseñados para detectar si una empresa tiene un programa de bug bounty o una política de responsible disclosure, incluso si no está registrada en plataformas conocidas como HackerOne o Bugcrowd. Permite a cualquier cazador encontrar oportunidades ocultas de recompensa y explorar superficies que otros pasan por alto,<a href="https://youtu.be/Np2ikE_T3TY" target="_blank" rel="noopener">demo Youtube</a>** 
 <br><br> 
 
 <p align="center">
