@@ -1,18 +1,17 @@
-# dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Plataformas para leer informes"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"> </h1>	
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Dorks para buscar empresas que no esten en plataformas conocidas de bug bounty, si tenga su programa de bug bounty privado"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="35" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"> </h1>	
 
 
 <br>
 
 
 <p align="center">
- <img  height="470rem" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUybTJxN3Z2ajJhbHpoaTYxanB6bjR3ZW1yaTBlcGN3dTcxNnNrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIid6O5O6RlaHDKejN/giphy.gif"/>
+ <img  height="470rem" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRiNGRicHB0bDBrbmJtY3U2M2I3bDhzdXYyZDh0eDR0MXp0dmJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY7JGo5GU0XToc5wNB/giphy.gif"/>
 </p>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B0ZHZsb2dqNnVqajd5aWxzMDBndHAyN3Rnc3B6N2N1ejNsOTNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CghWwVJrhgivOrDP2j/giphy.gif" width = 75px>  </picture> Plataformas para leer informes
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRiNGRicHB0bDBrbmJtY3U2M2I3bDhzdXYyZDh0eDR0MXp0dmJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY7JGo5GU0XToc5wNB/giphy.gif" width = 75px>  </picture> Dorks para buscar empresas que no esten en plataformas conocidas de bug bounty pero si tenga su programa de bug bounty privado
 
 <br>
 
