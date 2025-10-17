@@ -11,11 +11,11 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRiNGRicHB0bDBrbmJtY3U2M2I3bDhzdXYyZDh0eDR0MXp0dmJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY7JGo5GU0XToc5wNB/giphy.gif" width = 75px>  </picture> Dorks para buscar empresas que no esten en plataformas conocidas de bug bounty pero si tenga su programa de bug bounty privado
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF6ZG8zYXAxeHNvY3o2MWsza2FxOW93YWFib2w1ZG5hcmFpbG10YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WNIx9kFviGW6joMdOc/giphy.gif" width = 75px>  </picture> Dorks para buscar empresas que no esten en plataformas conocidas de bug bounty pero si tenga su programa de bug bounty privado
 
 <br>
 
- **Un arsenal de fuentes donde podés leer informes reales de bug bounty, aprender cómo los cazadores estructuran sus reportes, descubrir nuevas técnicas, inspirarte para tus propias cadenas de explotación y mejorar exponencialmente la calidad de tus informes.** 
+ **Este repositorio reúne una colección avanzada de dorks ofensivos diseñados para detectar si una empresa tiene un programa de bug bounty o una política de responsible disclosure, incluso si no está registrada en plataformas conocidas como HackerOne o Bugcrowd. Permite a cualquier cazador encontrar oportunidades ocultas de recompensa y explorar superficies que otros pasan por alto.** 
 <br><br> 
 
 <p align="center">
@@ -26,31 +26,33 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJoNDR3c2ViZm54c3dvbnpuNWMwOXp0eWJ5eWV0b3M1bDR6NWY3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3zSkxzR51JN3sQxme/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
-**Muchos hunters nuevos no saben dónde encontrar reportes reales ni cómo se ve un informe profesional. Esta sección resuelve ese problema reuniendo todas las fuentes clave en un solo lugar, evitando que pierdas horas buscando por tu cuenta.**
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2k4bDgyOXR5azZ3bTRxcXN6Mnd0enpsMzE1aGptc25zaGpiNmZsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3gJSrEmIb9tQ6yJfOR/giphy.gif" width = 95px>  </picture> Problema que resuelve<br><br>
+**Muchísimas empresas tienen programas de recompensas, políticas de divulgación o vías de reporte escondidas en sus sitios, pero no participan en plataformas públicas. Sin una lista de dorks bien pensada, estos objetivos pasan desapercibidos, reduciendo drásticamente las oportunidades de hallazgos y recompensas.**
 <br><br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM0djlqemplbDdmeW5jNHlicGRseTRvaXZvcHc2bDVlcHFob3VybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W6X1MJobsLdHcX14PH/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Acceso a cientos de informes reales para estudiar técnicas y cadenas.<br><br>
-• Inspira ideas para tus propias pruebas.<br><br>
-• Mejora drásticamente tu forma de redactar reportes.<br><br>
-• Permite analizar vulnerabilidades por tipo (XSS, SSRF, IDOR, etc.) con ejemplos concretos.<br><br>
-• Ayuda a entender qué impacto esperan las plataformas y cómo califican severidades.** <br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3V5MDR2MmF2dWJ5eHBpOXdqcXZvamEweXZ6Nms4djFpaHQ1a201ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYI1xlJtmnhVAftBaY/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+**• Permite descubrir programas de bug bounty ocultos que no aparecen en plataformas populares.<br><br>
+  • Aumenta tus oportunidades de caza al revelar páginas de security.txt, políticas, formularios y recompensas.<br><br>
+  • Encuentra puntos de contacto y formularios para enviar reportes de vulnerabilidades directamente.<br><br>
+  • Amplía tu campo de ataque a empresas que sí pagan por vulnerabilidades pero no lo anuncian públicamente.<br><br>
+  • Facilita el OSINT y la enumeración de superficie de programas de seguridad.** <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1rcGliMmkwb2FtaWNzdGhxZW9qazR3OHAybm83dzdqaTI0dDhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mlukz0qzut5MlTtL41/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDN3OTJwZ2JyNW1wbzk4b204MWk2MWN0NzcxYWsxZmY0aDF4aGlnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wKd9zP4h0ejBrO7Rfm/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-Una colección curada de las mejores fuentes para leer informes de bug bounty, desde Medium hasta repositorios en GitHub, pasando por bases públicas como HackerOne, Google o pentester.land.<br><br>
+Un arsenal de dorks estratégicos para encontrar bug bounty programs, responsible disclosures y recompensas escondidas, incluso fuera de las plataformas tradicionales.<br><br>
 
 
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDMzb2Y0amtxeng5Z3lxcTZ0MDE1eWtvbncyYnlzcGNyYnQ3NWUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/s68DFdTIJTo50USDQn/giphy.gif" width = 80px>  </picture> Plataformas para informes <br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQzY3JlM25pN3RxazRiZzdoaHk3cjh3ZDU3cXNid3h6YWoxYnprMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2uI9jZtmnOWINS1wZf/giphy.gif" width = 80px>  </picture> Dorks de google <br><br>
+
+## Consejo agregar los dorks a tool de google dorks de 12k creando una nueva categoría y copy los dorks de aquí pegar en la categoria ,<a href="https://github.com/Aquiles369/Arsenal_de_los_Dorks_de_Google" target="_blank" rel="noopener">tool de google dorks 12k</a>..
 
 ```yaml
 (site:{TARGET} OR site:*.{TARGET}) inurl:/bug bounty
@@ -156,7 +158,7 @@ Una colección curada de las mejores fuentes para leer informes de bug bounty, d
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Quien estudia los informes del pasado, descubre los bugs del futuro.”
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YwbG9zbmU1amprdTJsbmxzYnpobzd5eGtnazB6b2FmdnllaTRhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h8UlsEpqiCISTKUzvz/giphy.gif" width = 80px>  </picture> “Donde otros ven un simple dominio, vos ves un programa de recompensas esperando ser descubierto.”
 <br>
 
 
